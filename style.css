@@ -1,0 +1,39 @@
+body{
+    margin: auto;
+    text-align: center;
+    background:rgb(109, 9, 64);
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    border: 2px solid palegreen;
+    display: inline-block;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height:200px;
+
+}
+#player1{
+    color: aqua;
+    font-family: 'lobster', cursive;
+    display: inline-block;
+    
+}
+#player2{
+    color:red;
+    font-family: 'lobster', cursive;
+    display: inline-block;
+}
+#refresh{
+    font-size: 80px;
+    color: forestgreen;
+    margin:10px auto ;
+}
+#btn{
+    padding: 10px;
+    color: rgb(246, 246, 250);
+    background-color: blue;
+}
