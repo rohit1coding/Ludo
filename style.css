@@ -28,11 +28,13 @@ img{
     display: inline-block;
 }
 #refresh{
-    font-size: 80px;
-    color: forestgreen;
+    font-size: 70px;
+    width: 700px;
+    color: rgb(251, 255, 0);
     margin:10px auto ;
+    border:2px solid rgb(113, 8, 233);
 }
-#btn{
+button{
     padding: 10px;
     color: rgb(246, 246, 250);
     background-color: blue;
