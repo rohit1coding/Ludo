@@ -1,8 +1,8 @@
 let player1 ="Player1";
 let player2= "Player2";
 function enterPlayerName(){
-    player1 = prompt("Enter the name of Player-1");
-    player2 = prompt("Enter the name of Player-2");
+    player1 = prompt("Enter Player-1 Name:");
+    player2 = prompt("Enter Player-2 Name:");
     document.getElementById('player1').innerHTML=player1;
     document.getElementById('player2').innerHTML=player2;
     document.getElementById("battle").innerHTML=player1 +" vs "+ player2;
